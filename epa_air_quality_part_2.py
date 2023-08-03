@@ -115,4 +115,4 @@ print(df.head(10))
 df[(df["z_score"] > 3) | (df["z_score"] < -3)]
 
 # The aqi_log for West Phoenix is slightly above 3 standard deviations of the mean. 
-# This means that the air quality at that site is worse than the rest of the sites represented in the data.
+# This means that the air quality at that site is worse than the rest of the sites represented in the data. 
