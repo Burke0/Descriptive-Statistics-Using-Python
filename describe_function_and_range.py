@@ -25,7 +25,7 @@ print(df.head(10))
 # The OVERALL_LI is literacy rate for each district in the nation
 print(df['OVERALL_LI'].describe())
 
-# Desccribe also works for categorical data and outputs the following
+# Describe also works for categorical data and outputs the following
 
 # count: Number of non-NA/null observations
 # unique: Number of unique values
