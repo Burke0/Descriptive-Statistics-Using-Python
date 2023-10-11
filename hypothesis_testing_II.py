@@ -68,7 +68,7 @@ print('p value: ', pvalue)
 # fail to reject the null hypothesis.
 
 # Results:
-# (At a 5% significance level):
+# (At a 95% confidence level):
     # 1) The AQI in Los Angeles County was in fact different from the rest of California.
     # 2) New York has a lower AQI than Ohio based on the results.
     # 3) It can't be  concluded that the mean AQI is greater than 10. Thus, it is unlikely that Michigan would be affected by the new policy.
